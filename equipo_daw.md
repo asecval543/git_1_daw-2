@@ -9,3 +9,4 @@
 | Iván Barrios Román         | [github.com/ibarrom693 ](https://github.com/ibarrom693)  |
 | Abraham Rodriguez Moreno   | [github.com/arodmor789](https://github.com/arodmor )    |
 | Jose Manuel Benitez Alba   | [github.com/jbenalb](https://github.com/jbenalb )    |
+| Alejandro Secades Valdes   | [github.com/asecval543](https://github.com/asecval543)|
